@@ -11,6 +11,9 @@ Your device should be listed when:
 ```
 adb devices
 ```
+> [!IMPORTANT]  
+> Make sure you have enabled developer options AND turned on USB debugging
+
 Now, you can view the files 
 ```
 adb shell ls /sdcard/
